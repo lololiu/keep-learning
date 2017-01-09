@@ -1,9 +1,9 @@
 # Blogs
 
 - [工匠若水](http://blog.csdn.net/yanbober)
-    - [ ] [Google Volley使用之基础](http://blog.csdn.net/yanbober/article/details/45307015)
-    - [ ] [Google Volley使用之自定义](http://blog.csdn.net/yanbober/article/details/45307099)
-    - [ ] [Google Volley框架源码走读](http://blog.csdn.net/yanbober/article/details/45307217)
+    - [x] [Google Volley使用之基础](http://blog.csdn.net/yanbober/article/details/45307015)
+    - [x] [Google Volley使用之自定义](http://blog.csdn.net/yanbober/article/details/45307099)
+    - [x] [Google Volley框架源码走读](http://blog.csdn.net/yanbober/article/details/45307217)
     - [ ] [android-async-http框架库使用基础](http://blog.csdn.net/yanbober/article/details/45307549)
     - [ ] [android-async-http框架库源码走读](http://blog.csdn.net/yanbober/article/details/45307739)
     - [ ] [正则表达式基础](http://blog.csdn.net/yanbober/article/details/45556185)
