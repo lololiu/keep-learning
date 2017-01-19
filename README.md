@@ -6,9 +6,15 @@
 - [博客阅读](https://github.com/lololiu/keep-learning/blob/master/android/read-blogs-list.md)
 - 基础知识整理
 - 开源项目源码分析
+- todo
+    - [ ] App动态更换Launcher图标
+    - [ ] 比较几种网络库
 
 ## Java
 - 重点知识汇总
+
+## Python
+- [基础语法总结](https://github.com/lololiu/keep-learning/blob/master/python/base-grammer.md)
 
 ## 数据结构
 
@@ -28,6 +34,7 @@
 	- [ ] 《Android开发艺术探索》
 - Java
 	- [ ] 《Java编程思想》
+    - [ ] 《Java多线程编程核心技术》
 
 
 
