@@ -9,6 +9,7 @@
 - todo
     - [ ] App动态更换Launcher图标
     - [ ] 比较几种网络库
+    - [ ] EventBus3.0源码分析
 
 ## Java
 - 重点知识汇总
