@@ -20,7 +20,7 @@
     - [x] [Android应用层View绘制流程与源码分析](http://blog.csdn.net/yanbober/article/details/46128379)
     - [x] [Android应用AsyncTask处理机制详解及源码分析](http://blog.csdn.net/yanbober/article/details/46117397)
     - [x] [Android异步消息处理机制详解及源码分析](http://blog.csdn.net/yanbober/article/details/45936145)
-    - [ ] [Android自定义控件（状态提示图表）](http://blog.csdn.net/yanbober/article/details/46342361)
+    - [x] [Android自定义控件（状态提示图表）](http://blog.csdn.net/yanbober/article/details/46342361)
     - [ ] [Android应用Activity、Dialog、PopWindow、Toast窗口添加机制及源码分析](http://blog.csdn.net/yanbober/article/details/46361191)
     - [ ] [Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)
     - [ ] [Android应用Preference相关及源码浅析(SharePreferences篇)](http://blog.csdn.net/yanbober/article/details/47866369)
